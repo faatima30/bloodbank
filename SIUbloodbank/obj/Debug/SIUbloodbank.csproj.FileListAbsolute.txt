@@ -1,0 +1,17 @@
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\bin\Debug\SIUbloodbank.exe.config
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\bin\Debug\SIUbloodbank.exe
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\bin\Debug\SIUbloodbank.pdb
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\obj\Debug\SIUbloodbank.Properties.Resources.resources
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\obj\Debug\SIUbloodbank.Users.resources
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\obj\Debug\SIUbloodbank.csproj.GenerateResource.cache
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\obj\Debug\SIUbloodbank.csproj.CoreCompileInputs.cache
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\obj\Debug\SIUbloodbank.exe
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\obj\Debug\SIUbloodbank.pdb
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\obj\Debug\SIUbloodbank.Donors.resources
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\obj\Debug\SIUbloodbank.Blooddonor.resources
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\obj\Debug\SIUbloodbank.Login.resources
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\obj\Debug\SIUbloodbank.Mainform.resources
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\obj\Debug\SIUbloodbank.csprojAssemblyReference.cache
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\obj\Debug\SIUbloodbank.Welcome.resources
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\obj\Debug\SIUbloodbank.ViewBloodBank.resources
+D:\Documents\C family\C#\c# projects\SIUbloodbank\SIUbloodbank\obj\Debug\SIUbloodbank.BloodSeeker.resources
